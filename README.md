@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning reactjs 
 - 💞️ I’m looking to collaborate on projects
   
-- 📫 How to reach me, contact me on X @ennistraderx, WhatsApp @09081554931
+- 📫 How to reach me, contact me on X @ennistraderx, WhatsApp @09081554930
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
